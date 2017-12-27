@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Task-5</string>
+    <string name="start">Start!</string>
+    <string name="finalscore"><u><b>Final Score : </b></u></string>
+    <string name="q1">Which country to host the 2018 ASEAN-India Pravasi Bharatiya Divas (PBD)?</string>
+    <string name="q2">Partha Mukhopadhyay, the veteran actor has passed away. He hailed from which state?</string>
+    <string name="q3">The world’s tallest and longest glass bridge has opened in which country?</string>
+    <string name="finish">Finish</string>
+    <string name="q1o1">Singapore</string>
+    <string name="q1o2">India</string>
+    <string name="q1o3">Malaysia</string>
+    <string name="q1o4">Indonesia</string>
+    <string name="q2o1">Odisha</string>
+    <string name="q2o2">Jharkhand</string>
+    <string name="q2o3">W.Bengal</string>
+    <string name="q2o4">Karnataka</string>
+    <string name="q3o1">China</string>
+    <string name="q3o2">North Korea</string>
+    <string name="q3o3">Japan</string>
+    <string name="q3o4">South Korea</string>
+    <string name="q1n"><b><u>Question 1</u></b></string>
+    <string name="q2n"><b><u>Question 2</u></b></string>
+    <string name="q3n"><b><u>Question 3</u></b></string>
+</resources>
